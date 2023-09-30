@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **ReactJs,UI&U and Frontend**
+- 💬 Ask me about **ReactJs, UI&UX and Frontend**
 
 - 📫 How to reach me **satyamthakur05@gmail.com**
 
